@@ -66,7 +66,7 @@ class MyAdapter(
                 }
 
                 val filterResults = FilterResults()
-                filterResults.values = filterResults
+                filterResults.values = filterListResult
                 return filterResults
             }
 
